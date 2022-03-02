@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'ec2-3-38-150-7.ap-northeast-2.compute.amazonaws.com'
-    'ELB-2054671012.ap-northeast-2.elb.amazonaws.com'
+    'ELB-417984140.ap-northeast-2.elb.amazonaws.com'
 ]
 
 
